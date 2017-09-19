@@ -1,8 +1,9 @@
-#Repository for Daniel Denman's code, mostly for analysis of high-density electrophysiology.
+#for danieljdenman
+##For analysis of high-density electrophysiology, mostly
 
-##Probe Localization
+###Probe Localization
 
-##Spike Sorting Quality
+###Spike Sorting Quality
 
-##Visual Coding Analysis
+###Visual Coding Analysis
 
