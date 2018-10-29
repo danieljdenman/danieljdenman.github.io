@@ -1,1 +1,12 @@
-theme: jekyll-theme-slate
+# Site settings
+title:
+email:
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username:@denmanlab
+github_username: @danieljdenman
+
+# Build settings
+markdown: kramdown
