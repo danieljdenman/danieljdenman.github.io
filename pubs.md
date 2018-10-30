@@ -1,5 +1,6 @@
-Journal Articles
+Publications
 ---
+<h4>Past Work</h4>
 
 {:.year}
 ### 2018
