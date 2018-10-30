@@ -6,19 +6,19 @@ Journal Articles
 
 {:.paper}
 <span>High-density extracellular probes reveal dendritic backpropagation and facilitate neuron classification</span>{:.papertitle}  
-<span>X. Jia, J. Siegle, C. Bennett, S. Gale, D. Denman, C. Koch, and S. Olsen</span>{:.authors}  
+<span>X. Jia, J. Siegle, C. Bennett, S. Gale, **D. Denman**, C. Koch, and S. Olsen</span>{:.authors}  
 <span>_bioRxiv_, pp. 376863, Jul. 2018</span>{:.journal}  
 <span>**DOI:** [10.1101/376863](https://dx.doi.org/10.1101/376863)</span>{:.doi}  
 
 {:.paper}
 <span>Visual physiology of the Layer 4 cortical circuit in silico</span>{:.papertitle}  
-<span>A. Arkhipov, N.W. Gouwens, Y.N. Billeh, S. Gratiy, R. Iyer, Z. Wei, Z. Xu, J. Berg, M. Buice, N. Cain, N. da Costa, S. de Vries, D. Denman, S. Durand, D. Feng, T. Jarsky, J. Lecoq, B. Lee, L. Li, S. Mihalas, G.K. Ocker, S.R. Olsen, R.C. Reid, G. Soler-Llavina, S.A. Sorensen, Q. Wang, J. Waters, M. Scanziani, and C. Koch</span>{:.authors}  
+<span>A. Arkhipov, N.W. Gouwens, Y.N. Billeh, S. Gratiy, R. Iyer, Z. Wei, Z. Xu, J. Berg, M. Buice, N. Cain, N. da Costa, S. de Vries, **D. Denman**, S. Durand, D. Feng, T. Jarsky, J. Lecoq, B. Lee, L. Li, S. Mihalas, G.K. Ocker, S.R. Olsen, R.C. Reid, G. Soler-Llavina, S.A. Sorensen, Q. Wang, J. Waters, M. Scanziani, and C. Koch</span>{:.authors}  
 <span>_bioRxiv_, pp. 292839, Mar. 2018</span>{:.journal}  
 <span>**DOI:** [10.1101/292839](https://dx.doi.org/10.1101/292839)</span>{:.doi}  
 
 {:.paper}
 <span>The songs of silence: Cortical suppression and synchronization by layer-specific activation</span>{:.papertitle}  
-<span>D. Denman</span>{:.authors}  
+<span>**D. Denman**</span>{:.authors}  
 <span>_Journal of Physiology_, Jan. 2018</span>{:.journal}  
 <span>**DOI:** [10.1113/JP275797](https://dx.doi.org/10.1113/JP275797)</span>{:.doi}  
 
@@ -39,7 +39,7 @@ Journal Articles
 
 {:.paper}
 <span>From Maxwell's equations to the theory of current-source density analysis</span>{:.papertitle}  
-<span>S. Gratiy, G. Halnes, D. Denman, M. Hawrylycz, C. Koch, G. Einevoll, and C. Anastassiou</span>{:.authors}  
+<span>S. Gratiy, G. Halnes, **D. Denman**, M. Hawrylycz, C. Koch, G. Einevoll, and C. Anastassiou</span>{:.authors}  
 <span>_European Journal of Neuroscience_, vol. 45, no. 8, Jan. 2017</span>{:.journal}  
 <span>**DOI:** [10.1111/ejn.13534](https://dx.doi.org/10.1111/ejn.13534)</span>{:.doi}  
 
@@ -75,7 +75,7 @@ Journal Articles
 
 {:.paper}
 <span>Optogenetics in mice performing a visual discrimination task: Measurement and suppression of retinal activation and the resulting behavioral artifact</span>{:.papertitle}  
-<span>B. Danskin, D. Denman, M. Valley, D. Ollerenshaw, D. Williams, P. Groblewski, C. Reid, S. Olsen, and J. Waters</span>{:.authors}  
+<span>B. Danskin,**D. Denman**, M. Valley, D. Ollerenshaw, D. Williams, P. Groblewski, C. Reid, S. Olsen, and J. Waters</span>{:.authors}  
 <span>_PLoS ONE_, vol. 10, no. 12, Jan. 2015</span>{:.journal}  
 <span>**DOI:** [10.1371/journal.pone.0144760](https://dx.doi.org/10.1371/journal.pone.0144760)</span>{:.doi}  
 
@@ -108,6 +108,6 @@ Conference Publications and Posters
 
 {:.paper}
 <span>Ultracompact optoflex neural probes for high-resolution electrophysiology and optogenetic stimulation</span>{:.papertitle}  
-<span>M. Chamanzar, D. Denman, T. Blanche, and M. Maharbiz</span>{:.authors}  
+<span>M. Chamanzar, **D. Denman**, T. Blanche, and M. Maharbiz</span>{:.authors}  
 <span>Proceedings of the IEEE International Conference on Micro Electro Mechanical Systems (MEMS), Jan. 2015</span>{:.journal}  
 <span>**DOI:** [10.1109/MEMSYS.2015.7051049](https://dx.doi.org/10.1109/MEMSYS.2015.7051049)</span>{:.doi}  
