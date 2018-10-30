@@ -1,10 +1,4 @@
-title: Publications
-permalink: /publications/
-excerpt: 
-image: tracks.png#jun_f3clip.png
-background-image: Figure 3_formatted.png
----
-<h4>Past Work</h4>
+
 
 {:.year}
 ### 2018
