@@ -28,8 +28,8 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: Exploring the neural mechanisms of visual perception
-  text: HI #We use in vivo electrophysiology, functional imaging, quantitative psychophysics, circuit tracing, and computational modeling to study how the activity of populations of neurons distributed across the brain generate perceptions. The lab will open in September 2019! Please contact me if you are interested in joining:
+  title:  The neural mechanisms of visual perception
+  text: We use in vivo electrophysiology, functional imaging, quantitative psychophysics, circuit tracing, and computational modeling to study how the activity of populations of neurons distributed across the brain generate perceptions.
 # - displayed at the bottom
 closing-head: Opening September 2019
 closing-para: 
