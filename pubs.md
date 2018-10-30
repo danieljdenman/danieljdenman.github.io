@@ -3,7 +3,7 @@ key: 2
 title: Publications
 permalink: /publications/
 excerpt: 
-image: blank.png#jun_f3clip.png
+image: jun_f3clip.png#jun_f3clip.png
 background-image: jun_f3clip.png
 ---
 
